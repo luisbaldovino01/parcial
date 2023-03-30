@@ -1,0 +1,57 @@
+.contenedor{
+    display: flex;
+    height: 100px;
+}
+
+.div1{
+    
+    width: 25%;
+    
+}
+
+.div2{
+    width: 50%;
+}
+
+.div3{
+    background-color: crimson;
+    width: 25%;
+    text-align: center;
+    height: 70px;
+}
+
+
+.divitems{
+    background-color: #898989;
+    text-align: center;
+    height: 1000px;
+}
+
+.imgcentro{
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 63px;
+}
+
+.imgderecha{
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.divcontenedorderecho{
+    height: 50px;
+}
+
+.divtotal{
+    height: 500px;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.flexcontenido{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
